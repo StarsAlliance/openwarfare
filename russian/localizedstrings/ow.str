@@ -205,32 +205,32 @@ LANG_RUSSIAN "Убил игрока из последнего оружия в списке!"
 // maps/mp/gametypes/gr.gsc
 //******************************************************************************
 REFERENCE GREED
-LANG_ENGLISH "Greed"
+LANG_RUSSIAN "Жадность"
 
 REFERENCE OBJECTIVES_GR
-LANG_ENGLISH "Collect dogtags and deliver them to the drop zone."
+LANG_RUSSIAN "Собирайте жетоны и доставляйте их в зону высадки."
 
 REFERENCE OBJECTIVES_GR_SCORE
-LANG_ENGLISH "Collect dogtags and deliver them to the drop zone. First player with &&1 points wins."
+LANG_RUSSIAN "Собирайте жетоны и доставляйте их в зону высадки. Выигрывает игрок набравший &&1 очков."
 
 REFERENCE OBJECTIVES_GR_HINT
-LANG_ENGLISH "Collect dogtags and deliver them to the drop zone."
+LANG_RUSSIAN "Собирайте жетоны и доставляйте их в зону высадки."
 
 REFERENCE DOGTAGS_CAPTURED_BY
-LANG_ENGLISH "^3&&1^7 has captured ^3&&2^7 dogtag(s)."
+LANG_RUSSIAN "^3&&1^7 захватил ^3&&2^7 жетон(ов)."
 
 REFERENCE GR_DROPZONES_RELOCATING_IN
-LANG_ENGLISH "Drop zones re-locating in &&1"
+LANG_RUSSIAN "Зона высадки переместится через &&1"
 
 REFERENCE GR_DROPZONE_RELOCATING_IN
-LANG_ENGLISH "Drop zone re-locating in &&1"
+LANG_RUSSIAN "Зона высадки переместится через &&1"
 
 
 //******************************************************************************
 // maps/mp/gametypes/hns.gsc
 //******************************************************************************
 REFERENCE HIDEANDSEEK
-LANG_ENGLISH "Hide And Seek"
+LANG_RUSSIAN "Прятки"
 
 REFERENCE PROPS_SHORT
 LANG_ENGLISH "Props"
@@ -353,7 +353,7 @@ REFERENCE OBJECTIVES_ONEINTHECHAMBER_HINT
 LANG_RUSSIAN "Уничтожайте всех других игроков"
 
 REFERENCE UAV_ON
-LANG_ENGLISH "UAV Activated Permanently"
+LANG_RUSSIAN "UAV Активирован"
 
 
 //******************************************************************************
@@ -818,10 +818,10 @@ LANG_RUSSIAN "У вас нет осколочных гранат для перка Мученик."
 // openwarfare/_numlives.gsc
 //******************************************************************************
 REFERENCE LIVES_LEFT
-LANG_ENGLISH "You have ^3&&1^7 lives remaining..."
+LANG_RUSSIAN "У Вас осталось ^3&&1^7 жизней..."
 
 REFERENCE LAST_LIFE
-LANG_ENGLISH "This is your last life!"
+LANG_RUSSIAN "Это Ваша последняя жизнь!"
 
 
 //******************************************************************************
